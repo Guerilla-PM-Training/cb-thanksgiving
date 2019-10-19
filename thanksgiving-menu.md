@@ -2,3 +2,5 @@
 
 - Dry toast
 - Cereal
+- plantains
+- cranberry sauce
